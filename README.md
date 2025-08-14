@@ -1,21 +1,23 @@
 # Sex-recognition-based-on-handwriting
-This is a study where over 1000 participants tried to categorize Sex of 40 people based on handwritings.
-Most of the study is in croatian.
-DOI of the paper is: "TODO"
+This is a study in which over 1,000 participants attempted to determine the sex of 40 individuals based on their handwriting.
+Most of the study is in Croatian.
+The DOI of the paper is: TODO.
 
 
-Guessing was done using google forms and results are available in the Dataset folder.
-Proba.csv is original file and ProbaV2.csv is cleaned up file (jupyter notebook code uses "ProbaV2.csv")
-Ž stands for F and means Female.
-M stands for M and means Male.
+
+The guessing was conducted using Google Forms, and the results are available in the Dataset folder.
+Proba.csv is the original file, and ProbaV2.csv is the cleaned version (the Jupyter Notebook code uses ProbaV2.csv).
+Ž stands for Female, and M stands for Male.
 
 
-Pictures of the handwritings are present in the folders F_pictures (Female handwritings) and M_pictures (Male handwritings).
-Each handwriting has it's ID.
-Age and sex of a handwriting can be found in Handwriting_information.txt.
+
+Pictures of the handwriting samples are stored in the F_pictures folder (female handwriting) and M_pictures folder (male handwriting).
+Each handwriting sample has its own ID.
+The age and sex of each handwriting sample can be found in Handwriting_information.txt.
 
 
-Jupyter Notebook file, in which the data was analyzed and all the results are presented, is available under the name Analysis.ipynb."
+
+The Jupyter Notebook containing the data analysis and all results is available as Analysis.ipynb.
 
 
 
