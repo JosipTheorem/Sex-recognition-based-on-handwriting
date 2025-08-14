@@ -5,15 +5,15 @@ The DOI of the paper is: TODO.
 
 <br>
 
-The guessing was conducted using Google Forms, and the results are available in the Dataset folder.
-Proba.csv is the original file, and ProbaV2.csv is the cleaned version (the Jupyter Notebook code uses ProbaV2.csv).
-Ž stands for Female, and M stands for Male.
+The guessing was conducted using Google Forms, and the results are available in the Dataset folder.<br>
+Proba.csv is the original file, and ProbaV2.csv is the cleaned version (the Jupyter Notebook code uses ProbaV2.csv).<br>
+Ž stands for Female, and M stands for Male.<br>
 
 <br>
 
-Pictures of the handwriting samples are stored in the F_pictures folder (female handwriting) and M_pictures folder (male handwriting).
-Each handwriting sample has its own ID.
-The age and sex of each handwriting sample can be found in Handwriting_information.txt.
+Pictures of the handwriting samples are stored in the F_pictures folder (female handwriting) and M_pictures folder (male handwriting).<br>
+Each handwriting sample has its own ID.<br>
+The age and sex of each handwriting sample can be found in Handwriting_information.txt.<br>
 
 <br>
 
