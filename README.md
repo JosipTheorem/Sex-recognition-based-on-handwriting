@@ -1,7 +1,8 @@
 # Sex-recognition-based-on-handwriting
 This is a study in which over 1,000 participants attempted to determine the sex of 40 individuals based on their handwriting.<br>
 Most of the study is in Croatian.<br>
-The DOI of the paper is: TODO.
+The DOI of the paper is: https://doi.org/10.19279/TVZ.PD.2025-13-2-16
+URL: https://www.researchgate.net/publication/398655421_PREPOZNAVANJE_SPOLA_PREMA_RUKOPISU_GENDER_RECOGNITION_BASED_ON_HANDWRITING
 
 <br>
 
